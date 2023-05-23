@@ -47,4 +47,3 @@ spring.datasource.password=port
 
 ![image](https://github.com/Kapil7982/GreenStitch/assets/103938868/2cd24cf6-1bb3-42fe-996f-ab19d6e368ce)
 
-![image](https://github.com/Kapil7982/GreenStitch/assets/103938868/2995df0f-f7b4-4fb5-919d-b56ad77f67a3)
