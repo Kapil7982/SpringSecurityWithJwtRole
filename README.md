@@ -47,3 +47,5 @@ spring.datasource.password=port
 
 ![image](https://github.com/Kapil7982/GreenStitch/assets/103938868/2cd24cf6-1bb3-42fe-996f-ab19d6e368ce)
 
+![WhatsApp Image 2023-05-23 at 1 27 34 PM](https://github.com/Kapil7982/SpringSecurityWithJwtRole/assets/103938868/8b570e3e-f4e8-4e34-9a24-064f7a240702)
+
